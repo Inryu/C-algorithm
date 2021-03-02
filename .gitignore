@@ -80,3 +80,5 @@ dkms.conf
 # Executables
 
 # End of https://www.toptal.com/developers/gitignore/api/c,c++
+/CPS-(2)/.idea/
+/CPS-(2)/cmake-build-debug/

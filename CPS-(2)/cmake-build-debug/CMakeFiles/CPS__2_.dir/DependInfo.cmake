@@ -5,7 +5,6 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/shininryu/Desktop/algorithm/CPS-(2)/055.cpp" "/Users/shininryu/Desktop/algorithm/CPS-(2)/cmake-build-debug/CMakeFiles/CPS__2_.dir/055.cpp.o"
-  "/Users/shininryu/Desktop/algorithm/CPS-(2)/main.cpp" "/Users/shininryu/Desktop/algorithm/CPS-(2)/cmake-build-debug/CMakeFiles/CPS__2_.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

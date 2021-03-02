@@ -170,33 +170,6 @@ CPS__2_/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CPS__2_.dir/build.make CMakeFiles/CPS__2_.dir/055.cpp.s
 .PHONY : 055.cpp.s
 
-main.o: main.cpp.o
-
-.PHONY : main.o
-
-# target to build an object file
-main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CPS__2_.dir/build.make CMakeFiles/CPS__2_.dir/main.cpp.o
-.PHONY : main.cpp.o
-
-main.i: main.cpp.i
-
-.PHONY : main.i
-
-# target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CPS__2_.dir/build.make CMakeFiles/CPS__2_.dir/main.cpp.i
-.PHONY : main.cpp.i
-
-main.s: main.cpp.s
-
-.PHONY : main.s
-
-# target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CPS__2_.dir/build.make CMakeFiles/CPS__2_.dir/main.cpp.s
-.PHONY : main.cpp.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -209,9 +182,6 @@ help:
 	@echo "... 055.o"
 	@echo "... 055.i"
 	@echo "... 055.s"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
 .PHONY : help
 
 
