@@ -3,4 +3,4 @@ project(CPS__2_)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(CPS__2_ 055.cpp)
+add_executable(CPS__2_ 061.cpp)
