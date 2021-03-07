@@ -80,34 +80,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/shininryu/Desktop/✨algorithm/CPS-(2)/071.cpp">
+		<Unit filename="/Users/shininryu/Desktop/✨algorithm/CPS-(2)/084-1.cpp">
 			<Option target="CPS__2_"/>
 		</Unit>
-		<Unit filename="/Users/shininryu/Desktop/✨algorithm/CPS-(2)/072.cpp">
-			<Option target="CPS__2_"/>
-		</Unit>
-		<Unit filename="/Users/shininryu/Desktop/✨algorithm/CPS-(2)/073.cpp">
-			<Option target="CPS__2_"/>
-		</Unit>
-		<Unit filename="/Users/shininryu/Desktop/✨algorithm/CPS-(2)/074.cpp">
-			<Option target="CPS__2_"/>
-		</Unit>
-		<Unit filename="/Users/shininryu/Desktop/✨algorithm/CPS-(2)/075.cpp">
-			<Option target="CPS__2_"/>
-		</Unit>
-		<Unit filename="/Users/shininryu/Desktop/✨algorithm/CPS-(2)/076.cpp">
-			<Option target="CPS__2_"/>
-		</Unit>
-		<Unit filename="/Users/shininryu/Desktop/✨algorithm/CPS-(2)/077.cpp">
-			<Option target="CPS__2_"/>
-		</Unit>
-		<Unit filename="/Users/shininryu/Desktop/✨algorithm/CPS-(2)/078.cpp">
-			<Option target="CPS__2_"/>
-		</Unit>
-		<Unit filename="/Users/shininryu/Desktop/✨algorithm/CPS-(2)/079.cpp">
-			<Option target="CPS__2_"/>
-		</Unit>
-		<Unit filename="/Users/shininryu/Desktop/✨algorithm/CPS-(2)/struct-vector.cpp">
+		<Unit filename="/Users/shininryu/Desktop/✨algorithm/CPS-(2)/084.cpp">
 			<Option target="CPS__2_"/>
 		</Unit>
 		<Unit filename="/Users/shininryu/Desktop/✨algorithm/CPS-(2)/CMakeLists.txt">
