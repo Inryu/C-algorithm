@@ -29,5 +29,4 @@ void DFS(int L){
 int main(){
     scanf("%d",&n);
     DFS(1); //1레벨부터!
-
 }
