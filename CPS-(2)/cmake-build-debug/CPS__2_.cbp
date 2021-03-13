@@ -80,10 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/shininryu/Desktop/✨algorithm/CPS-(2)/089.cpp">
-			<Option target="CPS__2_"/>
-		</Unit>
-		<Unit filename="/Users/shininryu/Desktop/✨algorithm/CPS-(2)/090.cpp">
+		<Unit filename="/Users/shininryu/Desktop/✨algorithm/CPS-(2)/DP6.cpp">
 			<Option target="CPS__2_"/>
 		</Unit>
 		<Unit filename="/Users/shininryu/Desktop/✨algorithm/CPS-(2)/CMakeLists.txt">
