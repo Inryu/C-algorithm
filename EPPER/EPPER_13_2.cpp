@@ -2,29 +2,37 @@
 #include <vector>
 using namespace std;
 
-void solution(int n){
-    vector<int> dy(n+1);
-
-
-    dy[1]=1;
-    dy[2]=2;
-
-    //점화식 bottom-up 방식 이용
-    for(int i=3;i<=n;i++){
-        dy[i]=dy[i-1]+dy[i-2];
-    }
-    cout<<"계단 오르는 방법의 수 : "<<dy[n]<<"\n";
-
-}
-
 int main(){
+    ios_base::sync_with_stdio(false);
 
-    int n;
-    cout<<"계단의 수를 입력하시오 : ";
-    cin>>n;
+    int m,n;
+    cin>>m>>n;
 
-    solution(n);
+    int change=m-n;
 
+
+    vector<int> coin={50000,10000,5000,1000,500,100,50,10};
+
+    int count=0; //화폐 개수
+    int kind_count=0; //화폐 종류
+
+
+    //각 금액부터 시작 (금액이 큰 화폐순으로!)
+    for(int i=0;i<coin.size();i++){
+
+        int isUsed=0;
+
+        while(coin[i]<=change){
+            change-=coin[i];
+            count++;
+            isUsed=1;
+        }
+
+        if(isUsed) kind_count++;
+    }
+
+
+    cout<<kind_count<<" "<<count;
+    return 0;
 
 }
-

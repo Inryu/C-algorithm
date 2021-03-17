@@ -94,12 +94,12 @@ clean: CMakeFiles/EPPER.dir/clean
 CMakeFiles/EPPER.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/EPPER.dir/build.make CMakeFiles/EPPER.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/EPPER.dir/build.make CMakeFiles/EPPER.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/shininryu/Desktop/✨algorithm/EPPER/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target EPPER"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/shininryu/Desktop/✨algorithm/EPPER/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6 "Built target EPPER"
 .PHONY : CMakeFiles/EPPER.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/EPPER.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/shininryu/Desktop/✨algorithm/EPPER/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/shininryu/Desktop/✨algorithm/EPPER/cmake-build-debug/CMakeFiles 6
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/EPPER.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/shininryu/Desktop/✨algorithm/EPPER/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/EPPER.dir/rule

@@ -80,7 +80,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/shininryu/Desktop/✨algorithm/EPPER/EPPER_13_2_(C부문).cpp">
+		<Unit filename="/Users/shininryu/Desktop/✨algorithm/EPPER/EPPER_11_9.cpp">
+			<Option target="EPPER"/>
+		</Unit>
+		<Unit filename="/Users/shininryu/Desktop/✨algorithm/EPPER/EPPER_13_10.cpp">
+			<Option target="EPPER"/>
+		</Unit>
+		<Unit filename="/Users/shininryu/Desktop/✨algorithm/EPPER/EPPER_13_7.cpp">
+			<Option target="EPPER"/>
+		</Unit>
+		<Unit filename="/Users/shininryu/Desktop/✨algorithm/EPPER/EPPER_14_8.cpp">
+			<Option target="EPPER"/>
+		</Unit>
+		<Unit filename="/Users/shininryu/Desktop/✨algorithm/EPPER/EPPER_15_7.cpp">
 			<Option target="EPPER"/>
 		</Unit>
 		<Unit filename="/Users/shininryu/Desktop/✨algorithm/EPPER/CMakeLists.txt">
