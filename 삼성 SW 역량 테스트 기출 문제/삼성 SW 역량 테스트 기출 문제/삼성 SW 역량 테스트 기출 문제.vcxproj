@@ -120,6 +120,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="12100.cpp" />
+    <ClCompile Include="14501 퇴사.cpp" />
+    <ClCompile Include="14503 로봇청소기.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
