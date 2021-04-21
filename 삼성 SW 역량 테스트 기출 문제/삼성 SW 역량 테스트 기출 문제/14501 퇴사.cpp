@@ -21,7 +21,6 @@ void DFS(int day, int sum) {
 
 int main() {
 
-
 	cin >> n;
 
 	int t, p;
@@ -31,12 +30,11 @@ int main() {
 	for (int i = 1; i <= n; i++) {
 		cin >> t >> p;
 		a.push_back(make_pair(t, p));
+
 	}
 
-	DFS(1, 0);
+	DFS(1, 0); //(day,sum)
 
 	cout << maxval;
-
-
 
 }

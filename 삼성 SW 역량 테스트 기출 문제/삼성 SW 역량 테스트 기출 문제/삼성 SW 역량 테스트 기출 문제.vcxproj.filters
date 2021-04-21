@@ -15,13 +15,37 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="12100.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="14503 로봇청소기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="14501 퇴사.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="17140 이차원 배열과 연산.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="16236 아기상어.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14500 테트로미노.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="17144 미세먼지 안녕!.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="19238 스타트택시.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="12100 2048%28easy%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="19237 어른상어.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="19237 어른상어-sol.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="20055 컨테이어 벨트 위의 로봇.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
