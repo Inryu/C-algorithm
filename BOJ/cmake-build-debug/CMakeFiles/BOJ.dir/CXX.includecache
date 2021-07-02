@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/shininryu/Desktop/✨algorithm/BOJ/main.cpp
+/Users/shininryu/Desktop/✨algorithm/BOJ/21610 마법사 상어와 비바라기.cpp
 iostream
+-
+vector
+-
+queue
 -
 

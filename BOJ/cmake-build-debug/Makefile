@@ -143,32 +143,32 @@ BOJ/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/build
 .PHONY : BOJ/fast
 
-main.o: main.cpp.o
+21610_마법사_상어와_비바라기.o: 21610_마법사_상어와_비바라기.cpp.o
 
-.PHONY : main.o
+.PHONY : 21610_마법사_상어와_비바라기.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/main.cpp.o
-.PHONY : main.cpp.o
+21610_마법사_상어와_비바라기.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/21610_마법사_상어와_비바라기.cpp.o
+.PHONY : 21610_마법사_상어와_비바라기.cpp.o
 
-main.i: main.cpp.i
+21610_마법사_상어와_비바라기.i: 21610_마법사_상어와_비바라기.cpp.i
 
-.PHONY : main.i
+.PHONY : 21610_마법사_상어와_비바라기.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/main.cpp.i
-.PHONY : main.cpp.i
+21610_마법사_상어와_비바라기.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/21610_마법사_상어와_비바라기.cpp.i
+.PHONY : 21610_마법사_상어와_비바라기.cpp.i
 
-main.s: main.cpp.s
+21610_마법사_상어와_비바라기.s: 21610_마법사_상어와_비바라기.cpp.s
 
-.PHONY : main.s
+.PHONY : 21610_마법사_상어와_비바라기.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/main.cpp.s
-.PHONY : main.cpp.s
+21610_마법사_상어와_비바라기.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/21610_마법사_상어와_비바라기.cpp.s
+.PHONY : 21610_마법사_상어와_비바라기.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... BOJ"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... 21610_마법사_상어와_비바라기.o"
+	@echo "... 21610_마법사_상어와_비바라기.i"
+	@echo "... 21610_마법사_상어와_비바라기.s"
 .PHONY : help
 
 
