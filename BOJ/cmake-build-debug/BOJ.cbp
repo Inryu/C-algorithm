@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/shininryu/Desktop/✨algorithm/BOJ/21610 마법사 상어와 비바라기.cpp">
+		<Unit filename="/Users/shininryu/Desktop/✨algorithm/BOJ/21609 상어중학교.cpp">
 			<Option target="BOJ"/>
 		</Unit>
 		<Unit filename="/Users/shininryu/Desktop/✨algorithm/BOJ/CMakeLists.txt">

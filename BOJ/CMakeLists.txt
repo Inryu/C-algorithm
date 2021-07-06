@@ -3,4 +3,4 @@ project(BOJ)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(BOJ  "21610 마법사 상어와 비바라기.cpp")
+add_executable(BOJ  "21609 상어중학교.cpp")
