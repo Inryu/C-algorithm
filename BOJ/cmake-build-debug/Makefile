@@ -143,32 +143,32 @@ BOJ/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/build
 .PHONY : BOJ/fast
 
-21609_상어중학교.o: 21609_상어중학교.cpp.o
+20057_마법사_상어와_토네이도.o: 20057_마법사_상어와_토네이도.cpp.o
 
-.PHONY : 21609_상어중학교.o
+.PHONY : 20057_마법사_상어와_토네이도.o
 
 # target to build an object file
-21609_상어중학교.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/21609_상어중학교.cpp.o
-.PHONY : 21609_상어중학교.cpp.o
+20057_마법사_상어와_토네이도.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/20057_마법사_상어와_토네이도.cpp.o
+.PHONY : 20057_마법사_상어와_토네이도.cpp.o
 
-21609_상어중학교.i: 21609_상어중학교.cpp.i
+20057_마법사_상어와_토네이도.i: 20057_마법사_상어와_토네이도.cpp.i
 
-.PHONY : 21609_상어중학교.i
+.PHONY : 20057_마법사_상어와_토네이도.i
 
 # target to preprocess a source file
-21609_상어중학교.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/21609_상어중학교.cpp.i
-.PHONY : 21609_상어중학교.cpp.i
+20057_마법사_상어와_토네이도.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/20057_마법사_상어와_토네이도.cpp.i
+.PHONY : 20057_마법사_상어와_토네이도.cpp.i
 
-21609_상어중학교.s: 21609_상어중학교.cpp.s
+20057_마법사_상어와_토네이도.s: 20057_마법사_상어와_토네이도.cpp.s
 
-.PHONY : 21609_상어중학교.s
+.PHONY : 20057_마법사_상어와_토네이도.s
 
 # target to generate assembly for a file
-21609_상어중학교.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/21609_상어중학교.cpp.s
-.PHONY : 21609_상어중학교.cpp.s
+20057_마법사_상어와_토네이도.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/20057_마법사_상어와_토네이도.cpp.s
+.PHONY : 20057_마법사_상어와_토네이도.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... BOJ"
-	@echo "... 21609_상어중학교.o"
-	@echo "... 21609_상어중학교.i"
-	@echo "... 21609_상어중학교.s"
+	@echo "... 20057_마법사_상어와_토네이도.o"
+	@echo "... 20057_마법사_상어와_토네이도.i"
+	@echo "... 20057_마법사_상어와_토네이도.s"
 .PHONY : help
 
 
