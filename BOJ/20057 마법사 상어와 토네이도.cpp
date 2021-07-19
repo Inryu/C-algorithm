@@ -3,7 +3,6 @@
 #include <queue>
 using namespace std;
 
-
 //좌 하 우 상
 int dr[]={0,1,0,-1};
 int dc[]={-1,0,1,-0};
@@ -27,7 +26,7 @@ int ratios[]={1,1,7,7,2,2,10,10,5};
 
 int N;
 int map[500][500];
-int wr,wc; int wd=0;//출발 지점, 방향
+int wr,wc; int wd=0;//바람의 위치, 방향
 int ans=0;
 
 void moveWindy(int len);
@@ -37,14 +36,16 @@ int main(){
 
     cin>>N;
 
+    //바람의 출발 지점.
     wr=N/2;
     wc=N/2;
+
+    //input
     for(int i=0;i<N;i++){
         for(int j=0;j<N;j++){
             cin>>map[i][j];
         }
     }
-
 
     int len=1; //이동하는 길이
     for(int i=1;i<=N-1;i++){
@@ -67,12 +68,9 @@ void moveWindy(int len){
     for(int i=0;i<len;i++){
         wr+=dr[wd];
         wc+=dc[wd];
-
         //한 칸 이동할 때마다 모래 흩날리기
         spreadSend();
-
     }
-
 }
 
 void spreadSend(){

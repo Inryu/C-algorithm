@@ -143,32 +143,59 @@ BOJ/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/build
 .PHONY : BOJ/fast
 
-20057_마법사_상어와_토네이도.o: 20057_마법사_상어와_토네이도.cpp.o
+Backtracking/1759_암호만들기.o: Backtracking/1759_암호만들기.cpp.o
 
-.PHONY : 20057_마법사_상어와_토네이도.o
+.PHONY : Backtracking/1759_암호만들기.o
 
 # target to build an object file
-20057_마법사_상어와_토네이도.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/20057_마법사_상어와_토네이도.cpp.o
-.PHONY : 20057_마법사_상어와_토네이도.cpp.o
+Backtracking/1759_암호만들기.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Backtracking/1759_암호만들기.cpp.o
+.PHONY : Backtracking/1759_암호만들기.cpp.o
 
-20057_마법사_상어와_토네이도.i: 20057_마법사_상어와_토네이도.cpp.i
+Backtracking/1759_암호만들기.i: Backtracking/1759_암호만들기.cpp.i
 
-.PHONY : 20057_마법사_상어와_토네이도.i
+.PHONY : Backtracking/1759_암호만들기.i
 
 # target to preprocess a source file
-20057_마법사_상어와_토네이도.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/20057_마법사_상어와_토네이도.cpp.i
-.PHONY : 20057_마법사_상어와_토네이도.cpp.i
+Backtracking/1759_암호만들기.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Backtracking/1759_암호만들기.cpp.i
+.PHONY : Backtracking/1759_암호만들기.cpp.i
 
-20057_마법사_상어와_토네이도.s: 20057_마법사_상어와_토네이도.cpp.s
+Backtracking/1759_암호만들기.s: Backtracking/1759_암호만들기.cpp.s
 
-.PHONY : 20057_마법사_상어와_토네이도.s
+.PHONY : Backtracking/1759_암호만들기.s
 
 # target to generate assembly for a file
-20057_마법사_상어와_토네이도.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/20057_마법사_상어와_토네이도.cpp.s
-.PHONY : 20057_마법사_상어와_토네이도.cpp.s
+Backtracking/1759_암호만들기.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Backtracking/1759_암호만들기.cpp.s
+.PHONY : Backtracking/1759_암호만들기.cpp.s
+
+Backtracking/2661_좋은_수열.o: Backtracking/2661_좋은_수열.cpp.o
+
+.PHONY : Backtracking/2661_좋은_수열.o
+
+# target to build an object file
+Backtracking/2661_좋은_수열.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Backtracking/2661_좋은_수열.cpp.o
+.PHONY : Backtracking/2661_좋은_수열.cpp.o
+
+Backtracking/2661_좋은_수열.i: Backtracking/2661_좋은_수열.cpp.i
+
+.PHONY : Backtracking/2661_좋은_수열.i
+
+# target to preprocess a source file
+Backtracking/2661_좋은_수열.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Backtracking/2661_좋은_수열.cpp.i
+.PHONY : Backtracking/2661_좋은_수열.cpp.i
+
+Backtracking/2661_좋은_수열.s: Backtracking/2661_좋은_수열.cpp.s
+
+.PHONY : Backtracking/2661_좋은_수열.s
+
+# target to generate assembly for a file
+Backtracking/2661_좋은_수열.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Backtracking/2661_좋은_수열.cpp.s
+.PHONY : Backtracking/2661_좋은_수열.cpp.s
 
 # Help Target
 help:
@@ -179,9 +206,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... BOJ"
-	@echo "... 20057_마법사_상어와_토네이도.o"
-	@echo "... 20057_마법사_상어와_토네이도.i"
-	@echo "... 20057_마법사_상어와_토네이도.s"
+	@echo "... Backtracking/1759_암호만들기.o"
+	@echo "... Backtracking/1759_암호만들기.i"
+	@echo "... Backtracking/1759_암호만들기.s"
+	@echo "... Backtracking/2661_좋은_수열.o"
+	@echo "... Backtracking/2661_좋은_수열.i"
+	@echo "... Backtracking/2661_좋은_수열.s"
 .PHONY : help
 
 
