@@ -77,45 +77,30 @@ include CMakeFiles/BOJ.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/BOJ.dir/flags.make
 
-CMakeFiles/BOJ.dir/Backtracking/1759_암호만들기.cpp.o: CMakeFiles/BOJ.dir/flags.make
-CMakeFiles/BOJ.dir/Backtracking/1759_암호만들기.cpp.o: ../Backtracking/1759\ 암호만들기.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shininryu/Desktop/✨algorithm/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/BOJ.dir/Backtracking/1759_암호만들기.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BOJ.dir/Backtracking/1759_암호만들기.cpp.o -c "/Users/shininryu/Desktop/✨algorithm/BOJ/Backtracking/1759 암호만들기.cpp"
+CMakeFiles/BOJ.dir/Backtracking/2661_좋은_수열_string.cpp.o: CMakeFiles/BOJ.dir/flags.make
+CMakeFiles/BOJ.dir/Backtracking/2661_좋은_수열_string.cpp.o: ../Backtracking/2661\ 좋은\ 수열\ string.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shininryu/Desktop/✨algorithm/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/BOJ.dir/Backtracking/2661_좋은_수열_string.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BOJ.dir/Backtracking/2661_좋은_수열_string.cpp.o -c "/Users/shininryu/Desktop/✨algorithm/BOJ/Backtracking/2661 좋은 수열 string.cpp"
 
-CMakeFiles/BOJ.dir/Backtracking/1759_암호만들기.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BOJ.dir/Backtracking/1759_암호만들기.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/shininryu/Desktop/✨algorithm/BOJ/Backtracking/1759 암호만들기.cpp" > CMakeFiles/BOJ.dir/Backtracking/1759_암호만들기.cpp.i
+CMakeFiles/BOJ.dir/Backtracking/2661_좋은_수열_string.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BOJ.dir/Backtracking/2661_좋은_수열_string.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/shininryu/Desktop/✨algorithm/BOJ/Backtracking/2661 좋은 수열 string.cpp" > CMakeFiles/BOJ.dir/Backtracking/2661_좋은_수열_string.cpp.i
 
-CMakeFiles/BOJ.dir/Backtracking/1759_암호만들기.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BOJ.dir/Backtracking/1759_암호만들기.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/shininryu/Desktop/✨algorithm/BOJ/Backtracking/1759 암호만들기.cpp" -o CMakeFiles/BOJ.dir/Backtracking/1759_암호만들기.cpp.s
-
-CMakeFiles/BOJ.dir/Backtracking/2661_좋은_수열.cpp.o: CMakeFiles/BOJ.dir/flags.make
-CMakeFiles/BOJ.dir/Backtracking/2661_좋은_수열.cpp.o: ../Backtracking/2661\ 좋은\ 수열.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shininryu/Desktop/✨algorithm/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/BOJ.dir/Backtracking/2661_좋은_수열.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BOJ.dir/Backtracking/2661_좋은_수열.cpp.o -c "/Users/shininryu/Desktop/✨algorithm/BOJ/Backtracking/2661 좋은 수열.cpp"
-
-CMakeFiles/BOJ.dir/Backtracking/2661_좋은_수열.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BOJ.dir/Backtracking/2661_좋은_수열.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/shininryu/Desktop/✨algorithm/BOJ/Backtracking/2661 좋은 수열.cpp" > CMakeFiles/BOJ.dir/Backtracking/2661_좋은_수열.cpp.i
-
-CMakeFiles/BOJ.dir/Backtracking/2661_좋은_수열.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BOJ.dir/Backtracking/2661_좋은_수열.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/shininryu/Desktop/✨algorithm/BOJ/Backtracking/2661 좋은 수열.cpp" -o CMakeFiles/BOJ.dir/Backtracking/2661_좋은_수열.cpp.s
+CMakeFiles/BOJ.dir/Backtracking/2661_좋은_수열_string.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BOJ.dir/Backtracking/2661_좋은_수열_string.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/shininryu/Desktop/✨algorithm/BOJ/Backtracking/2661 좋은 수열 string.cpp" -o CMakeFiles/BOJ.dir/Backtracking/2661_좋은_수열_string.cpp.s
 
 # Object files for target BOJ
 BOJ_OBJECTS = \
-"CMakeFiles/BOJ.dir/Backtracking/1759_암호만들기.cpp.o" \
-"CMakeFiles/BOJ.dir/Backtracking/2661_좋은_수열.cpp.o"
+"CMakeFiles/BOJ.dir/Backtracking/2661_좋은_수열_string.cpp.o"
 
 # External object files for target BOJ
 BOJ_EXTERNAL_OBJECTS =
 
-BOJ: CMakeFiles/BOJ.dir/Backtracking/1759_암호만들기.cpp.o
-BOJ: CMakeFiles/BOJ.dir/Backtracking/2661_좋은_수열.cpp.o
+BOJ: CMakeFiles/BOJ.dir/Backtracking/2661_좋은_수열_string.cpp.o
 BOJ: CMakeFiles/BOJ.dir/build.make
 BOJ: CMakeFiles/BOJ.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/shininryu/Desktop/✨algorithm/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable BOJ"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/shininryu/Desktop/✨algorithm/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable BOJ"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/BOJ.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

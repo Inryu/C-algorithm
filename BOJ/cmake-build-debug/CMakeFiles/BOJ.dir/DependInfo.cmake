@@ -4,8 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/shininryu/Desktop/✨algorithm/BOJ/Backtracking/1759 암호만들기.cpp" "/Users/shininryu/Desktop/✨algorithm/BOJ/cmake-build-debug/CMakeFiles/BOJ.dir/Backtracking/1759_암호만들기.cpp.o"
-  "/Users/shininryu/Desktop/✨algorithm/BOJ/Backtracking/2661 좋은 수열.cpp" "/Users/shininryu/Desktop/✨algorithm/BOJ/cmake-build-debug/CMakeFiles/BOJ.dir/Backtracking/2661_좋은_수열.cpp.o"
+  "/Users/shininryu/Desktop/✨algorithm/BOJ/Backtracking/2661 좋은 수열 string.cpp" "/Users/shininryu/Desktop/✨algorithm/BOJ/cmake-build-debug/CMakeFiles/BOJ.dir/Backtracking/2661_좋은_수열_string.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
