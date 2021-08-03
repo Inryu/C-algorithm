@@ -143,32 +143,32 @@ BOJ/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/build
 .PHONY : BOJ/fast
 
-Backtracking/2661_좋은_수열_string.o: Backtracking/2661_좋은_수열_string.cpp.o
+Greedy/11399_ATM.o: Greedy/11399_ATM.cpp.o
 
-.PHONY : Backtracking/2661_좋은_수열_string.o
+.PHONY : Greedy/11399_ATM.o
 
 # target to build an object file
-Backtracking/2661_좋은_수열_string.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Backtracking/2661_좋은_수열_string.cpp.o
-.PHONY : Backtracking/2661_좋은_수열_string.cpp.o
+Greedy/11399_ATM.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Greedy/11399_ATM.cpp.o
+.PHONY : Greedy/11399_ATM.cpp.o
 
-Backtracking/2661_좋은_수열_string.i: Backtracking/2661_좋은_수열_string.cpp.i
+Greedy/11399_ATM.i: Greedy/11399_ATM.cpp.i
 
-.PHONY : Backtracking/2661_좋은_수열_string.i
+.PHONY : Greedy/11399_ATM.i
 
 # target to preprocess a source file
-Backtracking/2661_좋은_수열_string.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Backtracking/2661_좋은_수열_string.cpp.i
-.PHONY : Backtracking/2661_좋은_수열_string.cpp.i
+Greedy/11399_ATM.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Greedy/11399_ATM.cpp.i
+.PHONY : Greedy/11399_ATM.cpp.i
 
-Backtracking/2661_좋은_수열_string.s: Backtracking/2661_좋은_수열_string.cpp.s
+Greedy/11399_ATM.s: Greedy/11399_ATM.cpp.s
 
-.PHONY : Backtracking/2661_좋은_수열_string.s
+.PHONY : Greedy/11399_ATM.s
 
 # target to generate assembly for a file
-Backtracking/2661_좋은_수열_string.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Backtracking/2661_좋은_수열_string.cpp.s
-.PHONY : Backtracking/2661_좋은_수열_string.cpp.s
+Greedy/11399_ATM.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Greedy/11399_ATM.cpp.s
+.PHONY : Greedy/11399_ATM.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... BOJ"
-	@echo "... Backtracking/2661_좋은_수열_string.o"
-	@echo "... Backtracking/2661_좋은_수열_string.i"
-	@echo "... Backtracking/2661_좋은_수열_string.s"
+	@echo "... Greedy/11399_ATM.o"
+	@echo "... Greedy/11399_ATM.i"
+	@echo "... Greedy/11399_ATM.s"
 .PHONY : help
 
 

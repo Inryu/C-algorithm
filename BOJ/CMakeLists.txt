@@ -3,4 +3,4 @@ project(BOJ)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(BOJ  "Backtracking/2661 좋은 수열 string.cpp")
+add_executable(BOJ  "Greedy/11399 ATM.cpp")

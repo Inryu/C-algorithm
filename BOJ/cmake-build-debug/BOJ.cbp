@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/shininryu/Desktop/✨algorithm/BOJ/Backtracking/2661 좋은 수열 string.cpp">
+		<Unit filename="/Users/shininryu/Desktop/✨algorithm/BOJ/Greedy/11399 ATM.cpp">
 			<Option target="BOJ"/>
 		</Unit>
 		<Unit filename="/Users/shininryu/Desktop/✨algorithm/BOJ/CMakeLists.txt">

@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "BOJ"
   "BOJ.pdb"
-  "CMakeFiles/BOJ.dir/Backtracking/2661_좋은_수열_string.cpp.o"
+  "CMakeFiles/BOJ.dir/Greedy/11399_ATM.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.
