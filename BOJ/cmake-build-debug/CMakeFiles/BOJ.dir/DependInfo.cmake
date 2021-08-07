@@ -4,7 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/shininryu/Desktop/✨algorithm/BOJ/Greedy/11399 ATM.cpp" "/Users/shininryu/Desktop/✨algorithm/BOJ/cmake-build-debug/CMakeFiles/BOJ.dir/Greedy/11399_ATM.cpp.o"
+  "/Users/shininryu/Desktop/✨algorithm/BOJ/Greedy/11000 강의실 배정.cpp" "/Users/shininryu/Desktop/✨algorithm/BOJ/cmake-build-debug/CMakeFiles/BOJ.dir/Greedy/11000_강의실_배정.cpp.o"
+  "/Users/shininryu/Desktop/✨algorithm/BOJ/Greedy/13458 시험감독.cpp" "/Users/shininryu/Desktop/✨algorithm/BOJ/cmake-build-debug/CMakeFiles/BOJ.dir/Greedy/13458_시험감독.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
