@@ -77,45 +77,30 @@ include CMakeFiles/BOJ.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/BOJ.dir/flags.make
 
-CMakeFiles/BOJ.dir/Greedy/11000_강의실_배정.cpp.o: CMakeFiles/BOJ.dir/flags.make
-CMakeFiles/BOJ.dir/Greedy/11000_강의실_배정.cpp.o: ../Greedy/11000\ 강의실\ 배정.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shininryu/Desktop/✨algorithm/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/BOJ.dir/Greedy/11000_강의실_배정.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BOJ.dir/Greedy/11000_강의실_배정.cpp.o -c "/Users/shininryu/Desktop/✨algorithm/BOJ/Greedy/11000 강의실 배정.cpp"
+CMakeFiles/BOJ.dir/Greedy/4796_캠핑.cpp.o: CMakeFiles/BOJ.dir/flags.make
+CMakeFiles/BOJ.dir/Greedy/4796_캠핑.cpp.o: ../Greedy/4796\ 캠핑.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shininryu/Desktop/✨algorithm/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/BOJ.dir/Greedy/4796_캠핑.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BOJ.dir/Greedy/4796_캠핑.cpp.o -c "/Users/shininryu/Desktop/✨algorithm/BOJ/Greedy/4796 캠핑.cpp"
 
-CMakeFiles/BOJ.dir/Greedy/11000_강의실_배정.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BOJ.dir/Greedy/11000_강의실_배정.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/shininryu/Desktop/✨algorithm/BOJ/Greedy/11000 강의실 배정.cpp" > CMakeFiles/BOJ.dir/Greedy/11000_강의실_배정.cpp.i
+CMakeFiles/BOJ.dir/Greedy/4796_캠핑.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BOJ.dir/Greedy/4796_캠핑.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/shininryu/Desktop/✨algorithm/BOJ/Greedy/4796 캠핑.cpp" > CMakeFiles/BOJ.dir/Greedy/4796_캠핑.cpp.i
 
-CMakeFiles/BOJ.dir/Greedy/11000_강의실_배정.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BOJ.dir/Greedy/11000_강의실_배정.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/shininryu/Desktop/✨algorithm/BOJ/Greedy/11000 강의실 배정.cpp" -o CMakeFiles/BOJ.dir/Greedy/11000_강의실_배정.cpp.s
-
-CMakeFiles/BOJ.dir/Greedy/13458_시험감독.cpp.o: CMakeFiles/BOJ.dir/flags.make
-CMakeFiles/BOJ.dir/Greedy/13458_시험감독.cpp.o: ../Greedy/13458\ 시험감독.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shininryu/Desktop/✨algorithm/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/BOJ.dir/Greedy/13458_시험감독.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BOJ.dir/Greedy/13458_시험감독.cpp.o -c "/Users/shininryu/Desktop/✨algorithm/BOJ/Greedy/13458 시험감독.cpp"
-
-CMakeFiles/BOJ.dir/Greedy/13458_시험감독.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BOJ.dir/Greedy/13458_시험감독.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/shininryu/Desktop/✨algorithm/BOJ/Greedy/13458 시험감독.cpp" > CMakeFiles/BOJ.dir/Greedy/13458_시험감독.cpp.i
-
-CMakeFiles/BOJ.dir/Greedy/13458_시험감독.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BOJ.dir/Greedy/13458_시험감독.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/shininryu/Desktop/✨algorithm/BOJ/Greedy/13458 시험감독.cpp" -o CMakeFiles/BOJ.dir/Greedy/13458_시험감독.cpp.s
+CMakeFiles/BOJ.dir/Greedy/4796_캠핑.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BOJ.dir/Greedy/4796_캠핑.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/shininryu/Desktop/✨algorithm/BOJ/Greedy/4796 캠핑.cpp" -o CMakeFiles/BOJ.dir/Greedy/4796_캠핑.cpp.s
 
 # Object files for target BOJ
 BOJ_OBJECTS = \
-"CMakeFiles/BOJ.dir/Greedy/11000_강의실_배정.cpp.o" \
-"CMakeFiles/BOJ.dir/Greedy/13458_시험감독.cpp.o"
+"CMakeFiles/BOJ.dir/Greedy/4796_캠핑.cpp.o"
 
 # External object files for target BOJ
 BOJ_EXTERNAL_OBJECTS =
 
-BOJ: CMakeFiles/BOJ.dir/Greedy/11000_강의실_배정.cpp.o
-BOJ: CMakeFiles/BOJ.dir/Greedy/13458_시험감독.cpp.o
+BOJ: CMakeFiles/BOJ.dir/Greedy/4796_캠핑.cpp.o
 BOJ: CMakeFiles/BOJ.dir/build.make
 BOJ: CMakeFiles/BOJ.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/shininryu/Desktop/✨algorithm/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable BOJ"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/shininryu/Desktop/✨algorithm/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable BOJ"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/BOJ.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

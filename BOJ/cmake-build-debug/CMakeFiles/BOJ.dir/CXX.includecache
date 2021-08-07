@@ -6,13 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/shininryu/Desktop/✨algorithm/BOJ/Greedy/11000 강의실 배정.cpp
+/Users/shininryu/Desktop/✨algorithm/BOJ/Greedy/4796 캠핑.cpp
 iostream
 -
 vector
 -
 algorithm
--
-queue
 -
 

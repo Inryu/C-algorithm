@@ -143,59 +143,32 @@ BOJ/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/build
 .PHONY : BOJ/fast
 
-Greedy/11000_강의실_배정.o: Greedy/11000_강의실_배정.cpp.o
+Greedy/4796_캠핑.o: Greedy/4796_캠핑.cpp.o
 
-.PHONY : Greedy/11000_강의실_배정.o
-
-# target to build an object file
-Greedy/11000_강의실_배정.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Greedy/11000_강의실_배정.cpp.o
-.PHONY : Greedy/11000_강의실_배정.cpp.o
-
-Greedy/11000_강의실_배정.i: Greedy/11000_강의실_배정.cpp.i
-
-.PHONY : Greedy/11000_강의실_배정.i
-
-# target to preprocess a source file
-Greedy/11000_강의실_배정.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Greedy/11000_강의실_배정.cpp.i
-.PHONY : Greedy/11000_강의실_배정.cpp.i
-
-Greedy/11000_강의실_배정.s: Greedy/11000_강의실_배정.cpp.s
-
-.PHONY : Greedy/11000_강의실_배정.s
-
-# target to generate assembly for a file
-Greedy/11000_강의실_배정.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Greedy/11000_강의실_배정.cpp.s
-.PHONY : Greedy/11000_강의실_배정.cpp.s
-
-Greedy/13458_시험감독.o: Greedy/13458_시험감독.cpp.o
-
-.PHONY : Greedy/13458_시험감독.o
+.PHONY : Greedy/4796_캠핑.o
 
 # target to build an object file
-Greedy/13458_시험감독.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Greedy/13458_시험감독.cpp.o
-.PHONY : Greedy/13458_시험감독.cpp.o
+Greedy/4796_캠핑.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Greedy/4796_캠핑.cpp.o
+.PHONY : Greedy/4796_캠핑.cpp.o
 
-Greedy/13458_시험감독.i: Greedy/13458_시험감독.cpp.i
+Greedy/4796_캠핑.i: Greedy/4796_캠핑.cpp.i
 
-.PHONY : Greedy/13458_시험감독.i
+.PHONY : Greedy/4796_캠핑.i
 
 # target to preprocess a source file
-Greedy/13458_시험감독.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Greedy/13458_시험감독.cpp.i
-.PHONY : Greedy/13458_시험감독.cpp.i
+Greedy/4796_캠핑.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Greedy/4796_캠핑.cpp.i
+.PHONY : Greedy/4796_캠핑.cpp.i
 
-Greedy/13458_시험감독.s: Greedy/13458_시험감독.cpp.s
+Greedy/4796_캠핑.s: Greedy/4796_캠핑.cpp.s
 
-.PHONY : Greedy/13458_시험감독.s
+.PHONY : Greedy/4796_캠핑.s
 
 # target to generate assembly for a file
-Greedy/13458_시험감독.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Greedy/13458_시험감독.cpp.s
-.PHONY : Greedy/13458_시험감독.cpp.s
+Greedy/4796_캠핑.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Greedy/4796_캠핑.cpp.s
+.PHONY : Greedy/4796_캠핑.cpp.s
 
 # Help Target
 help:
@@ -206,12 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... BOJ"
-	@echo "... Greedy/11000_강의실_배정.o"
-	@echo "... Greedy/11000_강의실_배정.i"
-	@echo "... Greedy/11000_강의실_배정.s"
-	@echo "... Greedy/13458_시험감독.o"
-	@echo "... Greedy/13458_시험감독.i"
-	@echo "... Greedy/13458_시험감독.s"
+	@echo "... Greedy/4796_캠핑.o"
+	@echo "... Greedy/4796_캠핑.i"
+	@echo "... Greedy/4796_캠핑.s"
 .PHONY : help
 
 
