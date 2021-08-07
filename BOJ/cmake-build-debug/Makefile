@@ -143,32 +143,32 @@ BOJ/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/build
 .PHONY : BOJ/fast
 
-Greedy/4796_캠핑.o: Greedy/4796_캠핑.cpp.o
+Greedy/1700_멀티탭_스케줄링.o: Greedy/1700_멀티탭_스케줄링.cpp.o
 
-.PHONY : Greedy/4796_캠핑.o
+.PHONY : Greedy/1700_멀티탭_스케줄링.o
 
 # target to build an object file
-Greedy/4796_캠핑.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Greedy/4796_캠핑.cpp.o
-.PHONY : Greedy/4796_캠핑.cpp.o
+Greedy/1700_멀티탭_스케줄링.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Greedy/1700_멀티탭_스케줄링.cpp.o
+.PHONY : Greedy/1700_멀티탭_스케줄링.cpp.o
 
-Greedy/4796_캠핑.i: Greedy/4796_캠핑.cpp.i
+Greedy/1700_멀티탭_스케줄링.i: Greedy/1700_멀티탭_스케줄링.cpp.i
 
-.PHONY : Greedy/4796_캠핑.i
+.PHONY : Greedy/1700_멀티탭_스케줄링.i
 
 # target to preprocess a source file
-Greedy/4796_캠핑.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Greedy/4796_캠핑.cpp.i
-.PHONY : Greedy/4796_캠핑.cpp.i
+Greedy/1700_멀티탭_스케줄링.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Greedy/1700_멀티탭_스케줄링.cpp.i
+.PHONY : Greedy/1700_멀티탭_스케줄링.cpp.i
 
-Greedy/4796_캠핑.s: Greedy/4796_캠핑.cpp.s
+Greedy/1700_멀티탭_스케줄링.s: Greedy/1700_멀티탭_스케줄링.cpp.s
 
-.PHONY : Greedy/4796_캠핑.s
+.PHONY : Greedy/1700_멀티탭_스케줄링.s
 
 # target to generate assembly for a file
-Greedy/4796_캠핑.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Greedy/4796_캠핑.cpp.s
-.PHONY : Greedy/4796_캠핑.cpp.s
+Greedy/1700_멀티탭_스케줄링.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Greedy/1700_멀티탭_스케줄링.cpp.s
+.PHONY : Greedy/1700_멀티탭_스케줄링.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... BOJ"
-	@echo "... Greedy/4796_캠핑.o"
-	@echo "... Greedy/4796_캠핑.i"
-	@echo "... Greedy/4796_캠핑.s"
+	@echo "... Greedy/1700_멀티탭_스케줄링.o"
+	@echo "... Greedy/1700_멀티탭_스케줄링.i"
+	@echo "... Greedy/1700_멀티탭_스케줄링.s"
 .PHONY : help
 
 

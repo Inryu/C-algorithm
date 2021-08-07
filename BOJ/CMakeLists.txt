@@ -3,4 +3,4 @@ project(BOJ)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(BOJ  "Greedy/4796 캠핑.cpp")
+add_executable(BOJ  "Greedy/1700 멀티탭 스케줄링.cpp")
