@@ -6,7 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/shininryu/Desktop/✨algorithm/BOJ/Greedy/1700 멀티탭 스케줄링.cpp
+/Users/shininryu/Desktop/✨algorithm/BOJ/Greedy/1969 DNA.cpp
 iostream
+-
+vector
+-
+algorithm
+-
+map
 -
 

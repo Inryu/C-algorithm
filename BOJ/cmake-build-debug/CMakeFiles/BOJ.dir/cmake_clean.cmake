@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "BOJ"
   "BOJ.pdb"
-  "CMakeFiles/BOJ.dir/Greedy/1700_멀티탭_스케줄링.cpp.o"
+  "CMakeFiles/BOJ.dir/Greedy/1969_DNA.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/shininryu/Desktop/✨algorithm/BOJ/Greedy/1700 멀티탭 스케줄링.cpp" "/Users/shininryu/Desktop/✨algorithm/BOJ/cmake-build-debug/CMakeFiles/BOJ.dir/Greedy/1700_멀티탭_스케줄링.cpp.o"
+  "/Users/shininryu/Desktop/✨algorithm/BOJ/Greedy/1969 DNA.cpp" "/Users/shininryu/Desktop/✨algorithm/BOJ/cmake-build-debug/CMakeFiles/BOJ.dir/Greedy/1969_DNA.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
