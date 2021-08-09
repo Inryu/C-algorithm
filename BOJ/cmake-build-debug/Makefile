@@ -143,32 +143,32 @@ BOJ/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/build
 .PHONY : BOJ/fast
 
-Greedy/1969_DNA.o: Greedy/1969_DNA.cpp.o
+DFS_BFS/1260_DFS와_BFS_(인접리스트).o: DFS_BFS/1260_DFS와_BFS_(인접리스트).cpp.o
 
-.PHONY : Greedy/1969_DNA.o
+.PHONY : DFS_BFS/1260_DFS와_BFS_(인접리스트).o
 
 # target to build an object file
-Greedy/1969_DNA.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Greedy/1969_DNA.cpp.o
-.PHONY : Greedy/1969_DNA.cpp.o
+DFS_BFS/1260_DFS와_BFS_(인접리스트).cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make "CMakeFiles/BOJ.dir/DFS_BFS/1260_DFS와_BFS_(인접리스트).cpp.o"
+.PHONY : DFS_BFS/1260_DFS와_BFS_(인접리스트).cpp.o
 
-Greedy/1969_DNA.i: Greedy/1969_DNA.cpp.i
+DFS_BFS/1260_DFS와_BFS_(인접리스트).i: DFS_BFS/1260_DFS와_BFS_(인접리스트).cpp.i
 
-.PHONY : Greedy/1969_DNA.i
+.PHONY : DFS_BFS/1260_DFS와_BFS_(인접리스트).i
 
 # target to preprocess a source file
-Greedy/1969_DNA.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Greedy/1969_DNA.cpp.i
-.PHONY : Greedy/1969_DNA.cpp.i
+DFS_BFS/1260_DFS와_BFS_(인접리스트).cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make "CMakeFiles/BOJ.dir/DFS_BFS/1260_DFS와_BFS_(인접리스트).cpp.i"
+.PHONY : DFS_BFS/1260_DFS와_BFS_(인접리스트).cpp.i
 
-Greedy/1969_DNA.s: Greedy/1969_DNA.cpp.s
+DFS_BFS/1260_DFS와_BFS_(인접리스트).s: DFS_BFS/1260_DFS와_BFS_(인접리스트).cpp.s
 
-.PHONY : Greedy/1969_DNA.s
+.PHONY : DFS_BFS/1260_DFS와_BFS_(인접리스트).s
 
 # target to generate assembly for a file
-Greedy/1969_DNA.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Greedy/1969_DNA.cpp.s
-.PHONY : Greedy/1969_DNA.cpp.s
+DFS_BFS/1260_DFS와_BFS_(인접리스트).cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make "CMakeFiles/BOJ.dir/DFS_BFS/1260_DFS와_BFS_(인접리스트).cpp.s"
+.PHONY : DFS_BFS/1260_DFS와_BFS_(인접리스트).cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... BOJ"
-	@echo "... Greedy/1969_DNA.o"
-	@echo "... Greedy/1969_DNA.i"
-	@echo "... Greedy/1969_DNA.s"
+	@echo "... DFS_BFS/1260_DFS와_BFS_(인접리스트).o"
+	@echo "... DFS_BFS/1260_DFS와_BFS_(인접리스트).i"
+	@echo "... DFS_BFS/1260_DFS와_BFS_(인접리스트).s"
 .PHONY : help
 
 
