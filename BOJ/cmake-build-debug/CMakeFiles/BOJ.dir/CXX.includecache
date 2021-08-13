@@ -6,15 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/shininryu/Desktop/✨algorithm/BOJ/DFS BFS/1260 DFS와 BFS (인접리스트).cpp
+/Users/shininryu/Desktop/✨algorithm/BOJ/DFS BFS/2178 미로 탐색.cpp
 iostream
 -
-vector
+algorithm
 -
 queue
--
-cstring
--
-algorithm
 -
 

@@ -143,32 +143,32 @@ BOJ/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/build
 .PHONY : BOJ/fast
 
-DFS_BFS/1260_DFS와_BFS_(인접리스트).o: DFS_BFS/1260_DFS와_BFS_(인접리스트).cpp.o
+DFS_BFS/2178_미로_탐색.o: DFS_BFS/2178_미로_탐색.cpp.o
 
-.PHONY : DFS_BFS/1260_DFS와_BFS_(인접리스트).o
+.PHONY : DFS_BFS/2178_미로_탐색.o
 
 # target to build an object file
-DFS_BFS/1260_DFS와_BFS_(인접리스트).cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make "CMakeFiles/BOJ.dir/DFS_BFS/1260_DFS와_BFS_(인접리스트).cpp.o"
-.PHONY : DFS_BFS/1260_DFS와_BFS_(인접리스트).cpp.o
+DFS_BFS/2178_미로_탐색.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/DFS_BFS/2178_미로_탐색.cpp.o
+.PHONY : DFS_BFS/2178_미로_탐색.cpp.o
 
-DFS_BFS/1260_DFS와_BFS_(인접리스트).i: DFS_BFS/1260_DFS와_BFS_(인접리스트).cpp.i
+DFS_BFS/2178_미로_탐색.i: DFS_BFS/2178_미로_탐색.cpp.i
 
-.PHONY : DFS_BFS/1260_DFS와_BFS_(인접리스트).i
+.PHONY : DFS_BFS/2178_미로_탐색.i
 
 # target to preprocess a source file
-DFS_BFS/1260_DFS와_BFS_(인접리스트).cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make "CMakeFiles/BOJ.dir/DFS_BFS/1260_DFS와_BFS_(인접리스트).cpp.i"
-.PHONY : DFS_BFS/1260_DFS와_BFS_(인접리스트).cpp.i
+DFS_BFS/2178_미로_탐색.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/DFS_BFS/2178_미로_탐색.cpp.i
+.PHONY : DFS_BFS/2178_미로_탐색.cpp.i
 
-DFS_BFS/1260_DFS와_BFS_(인접리스트).s: DFS_BFS/1260_DFS와_BFS_(인접리스트).cpp.s
+DFS_BFS/2178_미로_탐색.s: DFS_BFS/2178_미로_탐색.cpp.s
 
-.PHONY : DFS_BFS/1260_DFS와_BFS_(인접리스트).s
+.PHONY : DFS_BFS/2178_미로_탐색.s
 
 # target to generate assembly for a file
-DFS_BFS/1260_DFS와_BFS_(인접리스트).cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make "CMakeFiles/BOJ.dir/DFS_BFS/1260_DFS와_BFS_(인접리스트).cpp.s"
-.PHONY : DFS_BFS/1260_DFS와_BFS_(인접리스트).cpp.s
+DFS_BFS/2178_미로_탐색.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/DFS_BFS/2178_미로_탐색.cpp.s
+.PHONY : DFS_BFS/2178_미로_탐색.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... BOJ"
-	@echo "... DFS_BFS/1260_DFS와_BFS_(인접리스트).o"
-	@echo "... DFS_BFS/1260_DFS와_BFS_(인접리스트).i"
-	@echo "... DFS_BFS/1260_DFS와_BFS_(인접리스트).s"
+	@echo "... DFS_BFS/2178_미로_탐색.o"
+	@echo "... DFS_BFS/2178_미로_탐색.i"
+	@echo "... DFS_BFS/2178_미로_탐색.s"
 .PHONY : help
 
 

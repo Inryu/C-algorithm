@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/shininryu/Desktop/✨algorithm/BOJ/DFS BFS/1260 DFS와 BFS (인접리스트).cpp" "/Users/shininryu/Desktop/✨algorithm/BOJ/cmake-build-debug/CMakeFiles/BOJ.dir/DFS_BFS/1260_DFS와_BFS_(인접리스트).cpp.o"
+  "/Users/shininryu/Desktop/✨algorithm/BOJ/DFS BFS/2178 미로 탐색.cpp" "/Users/shininryu/Desktop/✨algorithm/BOJ/cmake-build-debug/CMakeFiles/BOJ.dir/DFS_BFS/2178_미로_탐색.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
