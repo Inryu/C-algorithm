@@ -3,4 +3,4 @@ project(BOJ)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(BOJ "DFS BFS/2178 미로 탐색.cpp")
+add_executable(BOJ  "DFS BFS/1697 숨바꼭질.cpp")

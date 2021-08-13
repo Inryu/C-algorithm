@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/shininryu/Desktop/✨algorithm/BOJ/DFS BFS/2178 미로 탐색.cpp">
+		<Unit filename="/Users/shininryu/Desktop/✨algorithm/BOJ/DFS BFS/1697 숨바꼭질.cpp">
 			<Option target="BOJ"/>
 		</Unit>
 		<Unit filename="/Users/shininryu/Desktop/✨algorithm/BOJ/CMakeLists.txt">

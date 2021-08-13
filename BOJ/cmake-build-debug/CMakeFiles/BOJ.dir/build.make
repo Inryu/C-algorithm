@@ -77,27 +77,27 @@ include CMakeFiles/BOJ.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/BOJ.dir/flags.make
 
-CMakeFiles/BOJ.dir/DFS_BFS/2178_미로_탐색.cpp.o: CMakeFiles/BOJ.dir/flags.make
-CMakeFiles/BOJ.dir/DFS_BFS/2178_미로_탐색.cpp.o: ../DFS\ BFS/2178\ 미로\ 탐색.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shininryu/Desktop/✨algorithm/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/BOJ.dir/DFS_BFS/2178_미로_탐색.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BOJ.dir/DFS_BFS/2178_미로_탐색.cpp.o -c "/Users/shininryu/Desktop/✨algorithm/BOJ/DFS BFS/2178 미로 탐색.cpp"
+CMakeFiles/BOJ.dir/DFS_BFS/1697_숨바꼭질.cpp.o: CMakeFiles/BOJ.dir/flags.make
+CMakeFiles/BOJ.dir/DFS_BFS/1697_숨바꼭질.cpp.o: ../DFS\ BFS/1697\ 숨바꼭질.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shininryu/Desktop/✨algorithm/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/BOJ.dir/DFS_BFS/1697_숨바꼭질.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BOJ.dir/DFS_BFS/1697_숨바꼭질.cpp.o -c "/Users/shininryu/Desktop/✨algorithm/BOJ/DFS BFS/1697 숨바꼭질.cpp"
 
-CMakeFiles/BOJ.dir/DFS_BFS/2178_미로_탐색.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BOJ.dir/DFS_BFS/2178_미로_탐색.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/shininryu/Desktop/✨algorithm/BOJ/DFS BFS/2178 미로 탐색.cpp" > CMakeFiles/BOJ.dir/DFS_BFS/2178_미로_탐색.cpp.i
+CMakeFiles/BOJ.dir/DFS_BFS/1697_숨바꼭질.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BOJ.dir/DFS_BFS/1697_숨바꼭질.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/shininryu/Desktop/✨algorithm/BOJ/DFS BFS/1697 숨바꼭질.cpp" > CMakeFiles/BOJ.dir/DFS_BFS/1697_숨바꼭질.cpp.i
 
-CMakeFiles/BOJ.dir/DFS_BFS/2178_미로_탐색.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BOJ.dir/DFS_BFS/2178_미로_탐색.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/shininryu/Desktop/✨algorithm/BOJ/DFS BFS/2178 미로 탐색.cpp" -o CMakeFiles/BOJ.dir/DFS_BFS/2178_미로_탐색.cpp.s
+CMakeFiles/BOJ.dir/DFS_BFS/1697_숨바꼭질.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BOJ.dir/DFS_BFS/1697_숨바꼭질.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/shininryu/Desktop/✨algorithm/BOJ/DFS BFS/1697 숨바꼭질.cpp" -o CMakeFiles/BOJ.dir/DFS_BFS/1697_숨바꼭질.cpp.s
 
 # Object files for target BOJ
 BOJ_OBJECTS = \
-"CMakeFiles/BOJ.dir/DFS_BFS/2178_미로_탐색.cpp.o"
+"CMakeFiles/BOJ.dir/DFS_BFS/1697_숨바꼭질.cpp.o"
 
 # External object files for target BOJ
 BOJ_EXTERNAL_OBJECTS =
 
-BOJ: CMakeFiles/BOJ.dir/DFS_BFS/2178_미로_탐색.cpp.o
+BOJ: CMakeFiles/BOJ.dir/DFS_BFS/1697_숨바꼭질.cpp.o
 BOJ: CMakeFiles/BOJ.dir/build.make
 BOJ: CMakeFiles/BOJ.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/shininryu/Desktop/✨algorithm/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable BOJ"
