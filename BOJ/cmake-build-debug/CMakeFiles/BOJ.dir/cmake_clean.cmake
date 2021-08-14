@@ -1,8 +1,7 @@
 file(REMOVE_RECURSE
   "BOJ"
   "BOJ.pdb"
-  "CMakeFiles/BOJ.dir/DFS_BFS/1012_유기농_배추.cpp.o"
-  "CMakeFiles/BOJ.dir/DFS_BFS/11724_연결_요소의_개수.cpp.o"
+  "CMakeFiles/BOJ.dir/DFS_BFS/14502_연구소(조합에서_바로_벽으로_만들어주는_처음_방법).cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

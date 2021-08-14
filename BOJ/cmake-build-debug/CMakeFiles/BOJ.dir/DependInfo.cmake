@@ -4,8 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/shininryu/Desktop/✨algorithm/BOJ/DFS BFS/1012 유기농 배추.cpp" "/Users/shininryu/Desktop/✨algorithm/BOJ/cmake-build-debug/CMakeFiles/BOJ.dir/DFS_BFS/1012_유기농_배추.cpp.o"
-  "/Users/shininryu/Desktop/✨algorithm/BOJ/DFS BFS/11724 연결 요소의 개수.cpp" "/Users/shininryu/Desktop/✨algorithm/BOJ/cmake-build-debug/CMakeFiles/BOJ.dir/DFS_BFS/11724_연결_요소의_개수.cpp.o"
+  "/Users/shininryu/Desktop/✨algorithm/BOJ/DFS BFS/14502 연구소(조합에서 바로 벽으로 만들어주는 처음 방법).cpp" "/Users/shininryu/Desktop/✨algorithm/BOJ/cmake-build-debug/CMakeFiles/BOJ.dir/DFS_BFS/14502_연구소(조합에서_바로_벽으로_만들어주는_처음_방법).cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
