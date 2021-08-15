@@ -77,27 +77,27 @@ include CMakeFiles/BOJ.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/BOJ.dir/flags.make
 
-CMakeFiles/BOJ.dir/DFS_BFS/14502_연구소(조합에서_바로_벽으로_만들어주는_처음_방법).cpp.o: CMakeFiles/BOJ.dir/flags.make
-CMakeFiles/BOJ.dir/DFS_BFS/14502_연구소(조합에서_바로_벽으로_만들어주는_처음_방법).cpp.o: ../DFS\ BFS/14502\ 연구소(조합에서\ 바로\ 벽으로\ 만들어주는\ 처음\ 방법).cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shininryu/Desktop/✨algorithm/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/BOJ.dir/DFS_BFS/14502_연구소(조합에서_바로_벽으로_만들어주는_처음_방법).cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/BOJ.dir/DFS_BFS/14502_연구소(조합에서_바로_벽으로_만들어주는_처음_방법).cpp.o" -c "/Users/shininryu/Desktop/✨algorithm/BOJ/DFS BFS/14502 연구소(조합에서 바로 벽으로 만들어주는 처음 방법).cpp"
+CMakeFiles/BOJ.dir/DFS_BFS/2206_벽_부수고_이동하기.cpp.o: CMakeFiles/BOJ.dir/flags.make
+CMakeFiles/BOJ.dir/DFS_BFS/2206_벽_부수고_이동하기.cpp.o: ../DFS\ BFS/2206\ 벽\ 부수고\ 이동하기.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shininryu/Desktop/✨algorithm/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/BOJ.dir/DFS_BFS/2206_벽_부수고_이동하기.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BOJ.dir/DFS_BFS/2206_벽_부수고_이동하기.cpp.o -c "/Users/shininryu/Desktop/✨algorithm/BOJ/DFS BFS/2206 벽 부수고 이동하기.cpp"
 
-CMakeFiles/BOJ.dir/DFS_BFS/14502_연구소(조합에서_바로_벽으로_만들어주는_처음_방법).cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BOJ.dir/DFS_BFS/14502_연구소(조합에서_바로_벽으로_만들어주는_처음_방법).cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/shininryu/Desktop/✨algorithm/BOJ/DFS BFS/14502 연구소(조합에서 바로 벽으로 만들어주는 처음 방법).cpp" > "CMakeFiles/BOJ.dir/DFS_BFS/14502_연구소(조합에서_바로_벽으로_만들어주는_처음_방법).cpp.i"
+CMakeFiles/BOJ.dir/DFS_BFS/2206_벽_부수고_이동하기.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BOJ.dir/DFS_BFS/2206_벽_부수고_이동하기.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/shininryu/Desktop/✨algorithm/BOJ/DFS BFS/2206 벽 부수고 이동하기.cpp" > CMakeFiles/BOJ.dir/DFS_BFS/2206_벽_부수고_이동하기.cpp.i
 
-CMakeFiles/BOJ.dir/DFS_BFS/14502_연구소(조합에서_바로_벽으로_만들어주는_처음_방법).cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BOJ.dir/DFS_BFS/14502_연구소(조합에서_바로_벽으로_만들어주는_처음_방법).cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/shininryu/Desktop/✨algorithm/BOJ/DFS BFS/14502 연구소(조합에서 바로 벽으로 만들어주는 처음 방법).cpp" -o "CMakeFiles/BOJ.dir/DFS_BFS/14502_연구소(조합에서_바로_벽으로_만들어주는_처음_방법).cpp.s"
+CMakeFiles/BOJ.dir/DFS_BFS/2206_벽_부수고_이동하기.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BOJ.dir/DFS_BFS/2206_벽_부수고_이동하기.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/shininryu/Desktop/✨algorithm/BOJ/DFS BFS/2206 벽 부수고 이동하기.cpp" -o CMakeFiles/BOJ.dir/DFS_BFS/2206_벽_부수고_이동하기.cpp.s
 
 # Object files for target BOJ
 BOJ_OBJECTS = \
-"CMakeFiles/BOJ.dir/DFS_BFS/14502_연구소(조합에서_바로_벽으로_만들어주는_처음_방법).cpp.o"
+"CMakeFiles/BOJ.dir/DFS_BFS/2206_벽_부수고_이동하기.cpp.o"
 
 # External object files for target BOJ
 BOJ_EXTERNAL_OBJECTS =
 
-BOJ: CMakeFiles/BOJ.dir/DFS_BFS/14502_연구소(조합에서_바로_벽으로_만들어주는_처음_방법).cpp.o
+BOJ: CMakeFiles/BOJ.dir/DFS_BFS/2206_벽_부수고_이동하기.cpp.o
 BOJ: CMakeFiles/BOJ.dir/build.make
 BOJ: CMakeFiles/BOJ.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/shininryu/Desktop/✨algorithm/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable BOJ"

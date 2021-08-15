@@ -143,32 +143,32 @@ BOJ/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/build
 .PHONY : BOJ/fast
 
-DFS_BFS/14502_연구소(조합에서_바로_벽으로_만들어주는_처음_방법).o: DFS_BFS/14502_연구소(조합에서_바로_벽으로_만들어주는_처음_방법).cpp.o
+DFS_BFS/2206_벽_부수고_이동하기.o: DFS_BFS/2206_벽_부수고_이동하기.cpp.o
 
-.PHONY : DFS_BFS/14502_연구소(조합에서_바로_벽으로_만들어주는_처음_방법).o
+.PHONY : DFS_BFS/2206_벽_부수고_이동하기.o
 
 # target to build an object file
-DFS_BFS/14502_연구소(조합에서_바로_벽으로_만들어주는_처음_방법).cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make "CMakeFiles/BOJ.dir/DFS_BFS/14502_연구소(조합에서_바로_벽으로_만들어주는_처음_방법).cpp.o"
-.PHONY : DFS_BFS/14502_연구소(조합에서_바로_벽으로_만들어주는_처음_방법).cpp.o
+DFS_BFS/2206_벽_부수고_이동하기.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/DFS_BFS/2206_벽_부수고_이동하기.cpp.o
+.PHONY : DFS_BFS/2206_벽_부수고_이동하기.cpp.o
 
-DFS_BFS/14502_연구소(조합에서_바로_벽으로_만들어주는_처음_방법).i: DFS_BFS/14502_연구소(조합에서_바로_벽으로_만들어주는_처음_방법).cpp.i
+DFS_BFS/2206_벽_부수고_이동하기.i: DFS_BFS/2206_벽_부수고_이동하기.cpp.i
 
-.PHONY : DFS_BFS/14502_연구소(조합에서_바로_벽으로_만들어주는_처음_방법).i
+.PHONY : DFS_BFS/2206_벽_부수고_이동하기.i
 
 # target to preprocess a source file
-DFS_BFS/14502_연구소(조합에서_바로_벽으로_만들어주는_처음_방법).cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make "CMakeFiles/BOJ.dir/DFS_BFS/14502_연구소(조합에서_바로_벽으로_만들어주는_처음_방법).cpp.i"
-.PHONY : DFS_BFS/14502_연구소(조합에서_바로_벽으로_만들어주는_처음_방법).cpp.i
+DFS_BFS/2206_벽_부수고_이동하기.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/DFS_BFS/2206_벽_부수고_이동하기.cpp.i
+.PHONY : DFS_BFS/2206_벽_부수고_이동하기.cpp.i
 
-DFS_BFS/14502_연구소(조합에서_바로_벽으로_만들어주는_처음_방법).s: DFS_BFS/14502_연구소(조합에서_바로_벽으로_만들어주는_처음_방법).cpp.s
+DFS_BFS/2206_벽_부수고_이동하기.s: DFS_BFS/2206_벽_부수고_이동하기.cpp.s
 
-.PHONY : DFS_BFS/14502_연구소(조합에서_바로_벽으로_만들어주는_처음_방법).s
+.PHONY : DFS_BFS/2206_벽_부수고_이동하기.s
 
 # target to generate assembly for a file
-DFS_BFS/14502_연구소(조합에서_바로_벽으로_만들어주는_처음_방법).cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make "CMakeFiles/BOJ.dir/DFS_BFS/14502_연구소(조합에서_바로_벽으로_만들어주는_처음_방법).cpp.s"
-.PHONY : DFS_BFS/14502_연구소(조합에서_바로_벽으로_만들어주는_처음_방법).cpp.s
+DFS_BFS/2206_벽_부수고_이동하기.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/DFS_BFS/2206_벽_부수고_이동하기.cpp.s
+.PHONY : DFS_BFS/2206_벽_부수고_이동하기.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... BOJ"
-	@echo "... DFS_BFS/14502_연구소(조합에서_바로_벽으로_만들어주는_처음_방법).o"
-	@echo "... DFS_BFS/14502_연구소(조합에서_바로_벽으로_만들어주는_처음_방법).i"
-	@echo "... DFS_BFS/14502_연구소(조합에서_바로_벽으로_만들어주는_처음_방법).s"
+	@echo "... DFS_BFS/2206_벽_부수고_이동하기.o"
+	@echo "... DFS_BFS/2206_벽_부수고_이동하기.i"
+	@echo "... DFS_BFS/2206_벽_부수고_이동하기.s"
 .PHONY : help
 
 
