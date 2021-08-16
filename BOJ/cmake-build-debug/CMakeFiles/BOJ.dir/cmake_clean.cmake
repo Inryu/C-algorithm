@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "BOJ"
   "BOJ.pdb"
-  "CMakeFiles/BOJ.dir/DFS_BFS/2573_빙산.cpp.o"
+  "CMakeFiles/BOJ.dir/Queue_Stack/17225_세훈이의_선물가게(priority_queue).cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

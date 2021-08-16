@@ -143,32 +143,32 @@ BOJ/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/build
 .PHONY : BOJ/fast
 
-DFS_BFS/2573_빙산.o: DFS_BFS/2573_빙산.cpp.o
+Queue_Stack/17225_세훈이의_선물가게(priority_queue).o: Queue_Stack/17225_세훈이의_선물가게(priority_queue).cpp.o
 
-.PHONY : DFS_BFS/2573_빙산.o
+.PHONY : Queue_Stack/17225_세훈이의_선물가게(priority_queue).o
 
 # target to build an object file
-DFS_BFS/2573_빙산.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/DFS_BFS/2573_빙산.cpp.o
-.PHONY : DFS_BFS/2573_빙산.cpp.o
+Queue_Stack/17225_세훈이의_선물가게(priority_queue).cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make "CMakeFiles/BOJ.dir/Queue_Stack/17225_세훈이의_선물가게(priority_queue).cpp.o"
+.PHONY : Queue_Stack/17225_세훈이의_선물가게(priority_queue).cpp.o
 
-DFS_BFS/2573_빙산.i: DFS_BFS/2573_빙산.cpp.i
+Queue_Stack/17225_세훈이의_선물가게(priority_queue).i: Queue_Stack/17225_세훈이의_선물가게(priority_queue).cpp.i
 
-.PHONY : DFS_BFS/2573_빙산.i
+.PHONY : Queue_Stack/17225_세훈이의_선물가게(priority_queue).i
 
 # target to preprocess a source file
-DFS_BFS/2573_빙산.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/DFS_BFS/2573_빙산.cpp.i
-.PHONY : DFS_BFS/2573_빙산.cpp.i
+Queue_Stack/17225_세훈이의_선물가게(priority_queue).cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make "CMakeFiles/BOJ.dir/Queue_Stack/17225_세훈이의_선물가게(priority_queue).cpp.i"
+.PHONY : Queue_Stack/17225_세훈이의_선물가게(priority_queue).cpp.i
 
-DFS_BFS/2573_빙산.s: DFS_BFS/2573_빙산.cpp.s
+Queue_Stack/17225_세훈이의_선물가게(priority_queue).s: Queue_Stack/17225_세훈이의_선물가게(priority_queue).cpp.s
 
-.PHONY : DFS_BFS/2573_빙산.s
+.PHONY : Queue_Stack/17225_세훈이의_선물가게(priority_queue).s
 
 # target to generate assembly for a file
-DFS_BFS/2573_빙산.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/DFS_BFS/2573_빙산.cpp.s
-.PHONY : DFS_BFS/2573_빙산.cpp.s
+Queue_Stack/17225_세훈이의_선물가게(priority_queue).cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make "CMakeFiles/BOJ.dir/Queue_Stack/17225_세훈이의_선물가게(priority_queue).cpp.s"
+.PHONY : Queue_Stack/17225_세훈이의_선물가게(priority_queue).cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... BOJ"
-	@echo "... DFS_BFS/2573_빙산.o"
-	@echo "... DFS_BFS/2573_빙산.i"
-	@echo "... DFS_BFS/2573_빙산.s"
+	@echo "... Queue_Stack/17225_세훈이의_선물가게(priority_queue).o"
+	@echo "... Queue_Stack/17225_세훈이의_선물가게(priority_queue).i"
+	@echo "... Queue_Stack/17225_세훈이의_선물가게(priority_queue).s"
 .PHONY : help
 
 

@@ -54,13 +54,6 @@ void meltIce(){
             //삼항연산자 문법.. 꽤나 웃기게 썼음
             map[i][j]=(map[i][j]-tmpMap[i][j]>0)? map[i][j]-tmpMap[i][j]:0;
 
-            /*
-            if(map[i][j]-tmpMap[i][j]>0){
-                map[i][j]-=tmpMap[i][j];
-            }else{
-                map[i][j]=0;
-            }
-             */
         }
     }
 }

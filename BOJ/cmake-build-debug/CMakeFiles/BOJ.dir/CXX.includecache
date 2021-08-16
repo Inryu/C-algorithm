@@ -6,15 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/shininryu/Desktop/✨algorithm/BOJ/DFS BFS/2573 빙산.cpp
+/Users/shininryu/Desktop/✨algorithm/BOJ/Queue Stack/17225 세훈이의 선물가게(priority queue).cpp
 iostream
--
-algorithm
--
-vector
 -
 queue
 -
-cstring
+vector
 -
 
