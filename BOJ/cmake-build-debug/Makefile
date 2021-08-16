@@ -143,32 +143,32 @@ BOJ/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/build
 .PHONY : BOJ/fast
 
-DFS_BFS/2206_벽_부수고_이동하기.o: DFS_BFS/2206_벽_부수고_이동하기.cpp.o
+DFS_BFS/2573_빙산.o: DFS_BFS/2573_빙산.cpp.o
 
-.PHONY : DFS_BFS/2206_벽_부수고_이동하기.o
+.PHONY : DFS_BFS/2573_빙산.o
 
 # target to build an object file
-DFS_BFS/2206_벽_부수고_이동하기.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/DFS_BFS/2206_벽_부수고_이동하기.cpp.o
-.PHONY : DFS_BFS/2206_벽_부수고_이동하기.cpp.o
+DFS_BFS/2573_빙산.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/DFS_BFS/2573_빙산.cpp.o
+.PHONY : DFS_BFS/2573_빙산.cpp.o
 
-DFS_BFS/2206_벽_부수고_이동하기.i: DFS_BFS/2206_벽_부수고_이동하기.cpp.i
+DFS_BFS/2573_빙산.i: DFS_BFS/2573_빙산.cpp.i
 
-.PHONY : DFS_BFS/2206_벽_부수고_이동하기.i
+.PHONY : DFS_BFS/2573_빙산.i
 
 # target to preprocess a source file
-DFS_BFS/2206_벽_부수고_이동하기.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/DFS_BFS/2206_벽_부수고_이동하기.cpp.i
-.PHONY : DFS_BFS/2206_벽_부수고_이동하기.cpp.i
+DFS_BFS/2573_빙산.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/DFS_BFS/2573_빙산.cpp.i
+.PHONY : DFS_BFS/2573_빙산.cpp.i
 
-DFS_BFS/2206_벽_부수고_이동하기.s: DFS_BFS/2206_벽_부수고_이동하기.cpp.s
+DFS_BFS/2573_빙산.s: DFS_BFS/2573_빙산.cpp.s
 
-.PHONY : DFS_BFS/2206_벽_부수고_이동하기.s
+.PHONY : DFS_BFS/2573_빙산.s
 
 # target to generate assembly for a file
-DFS_BFS/2206_벽_부수고_이동하기.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/DFS_BFS/2206_벽_부수고_이동하기.cpp.s
-.PHONY : DFS_BFS/2206_벽_부수고_이동하기.cpp.s
+DFS_BFS/2573_빙산.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/DFS_BFS/2573_빙산.cpp.s
+.PHONY : DFS_BFS/2573_빙산.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... BOJ"
-	@echo "... DFS_BFS/2206_벽_부수고_이동하기.o"
-	@echo "... DFS_BFS/2206_벽_부수고_이동하기.i"
-	@echo "... DFS_BFS/2206_벽_부수고_이동하기.s"
+	@echo "... DFS_BFS/2573_빙산.o"
+	@echo "... DFS_BFS/2573_빙산.i"
+	@echo "... DFS_BFS/2573_빙산.s"
 .PHONY : help
 
 

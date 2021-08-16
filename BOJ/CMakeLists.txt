@@ -3,4 +3,4 @@ project(BOJ)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(BOJ "DFS BFS/2206 벽 부수고 이동하기.cpp")
+add_executable(BOJ   "DFS BFS/2573 빙산.cpp")
