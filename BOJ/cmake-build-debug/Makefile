@@ -143,32 +143,59 @@ BOJ/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/build
 .PHONY : BOJ/fast
 
-Queue_Stack/17225_세훈이의_선물가게(priority_queue).o: Queue_Stack/17225_세훈이의_선물가게(priority_queue).cpp.o
+Bruteforce/14501_퇴사.o: Bruteforce/14501_퇴사.cpp.o
 
-.PHONY : Queue_Stack/17225_세훈이의_선물가게(priority_queue).o
+.PHONY : Bruteforce/14501_퇴사.o
 
 # target to build an object file
-Queue_Stack/17225_세훈이의_선물가게(priority_queue).cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make "CMakeFiles/BOJ.dir/Queue_Stack/17225_세훈이의_선물가게(priority_queue).cpp.o"
-.PHONY : Queue_Stack/17225_세훈이의_선물가게(priority_queue).cpp.o
+Bruteforce/14501_퇴사.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Bruteforce/14501_퇴사.cpp.o
+.PHONY : Bruteforce/14501_퇴사.cpp.o
 
-Queue_Stack/17225_세훈이의_선물가게(priority_queue).i: Queue_Stack/17225_세훈이의_선물가게(priority_queue).cpp.i
+Bruteforce/14501_퇴사.i: Bruteforce/14501_퇴사.cpp.i
 
-.PHONY : Queue_Stack/17225_세훈이의_선물가게(priority_queue).i
+.PHONY : Bruteforce/14501_퇴사.i
 
 # target to preprocess a source file
-Queue_Stack/17225_세훈이의_선물가게(priority_queue).cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make "CMakeFiles/BOJ.dir/Queue_Stack/17225_세훈이의_선물가게(priority_queue).cpp.i"
-.PHONY : Queue_Stack/17225_세훈이의_선물가게(priority_queue).cpp.i
+Bruteforce/14501_퇴사.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Bruteforce/14501_퇴사.cpp.i
+.PHONY : Bruteforce/14501_퇴사.cpp.i
 
-Queue_Stack/17225_세훈이의_선물가게(priority_queue).s: Queue_Stack/17225_세훈이의_선물가게(priority_queue).cpp.s
+Bruteforce/14501_퇴사.s: Bruteforce/14501_퇴사.cpp.s
 
-.PHONY : Queue_Stack/17225_세훈이의_선물가게(priority_queue).s
+.PHONY : Bruteforce/14501_퇴사.s
 
 # target to generate assembly for a file
-Queue_Stack/17225_세훈이의_선물가게(priority_queue).cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make "CMakeFiles/BOJ.dir/Queue_Stack/17225_세훈이의_선물가게(priority_queue).cpp.s"
-.PHONY : Queue_Stack/17225_세훈이의_선물가게(priority_queue).cpp.s
+Bruteforce/14501_퇴사.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Bruteforce/14501_퇴사.cpp.s
+.PHONY : Bruteforce/14501_퇴사.cpp.s
+
+Bruteforce/2615_오목.o: Bruteforce/2615_오목.cpp.o
+
+.PHONY : Bruteforce/2615_오목.o
+
+# target to build an object file
+Bruteforce/2615_오목.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Bruteforce/2615_오목.cpp.o
+.PHONY : Bruteforce/2615_오목.cpp.o
+
+Bruteforce/2615_오목.i: Bruteforce/2615_오목.cpp.i
+
+.PHONY : Bruteforce/2615_오목.i
+
+# target to preprocess a source file
+Bruteforce/2615_오목.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Bruteforce/2615_오목.cpp.i
+.PHONY : Bruteforce/2615_오목.cpp.i
+
+Bruteforce/2615_오목.s: Bruteforce/2615_오목.cpp.s
+
+.PHONY : Bruteforce/2615_오목.s
+
+# target to generate assembly for a file
+Bruteforce/2615_오목.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Bruteforce/2615_오목.cpp.s
+.PHONY : Bruteforce/2615_오목.cpp.s
 
 # Help Target
 help:
@@ -179,9 +206,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... BOJ"
-	@echo "... Queue_Stack/17225_세훈이의_선물가게(priority_queue).o"
-	@echo "... Queue_Stack/17225_세훈이의_선물가게(priority_queue).i"
-	@echo "... Queue_Stack/17225_세훈이의_선물가게(priority_queue).s"
+	@echo "... Bruteforce/14501_퇴사.o"
+	@echo "... Bruteforce/14501_퇴사.i"
+	@echo "... Bruteforce/14501_퇴사.s"
+	@echo "... Bruteforce/2615_오목.o"
+	@echo "... Bruteforce/2615_오목.i"
+	@echo "... Bruteforce/2615_오목.s"
 .PHONY : help
 
 

@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/shininryu/Desktop/✨algorithm/BOJ/Queue Stack/17225 세훈이의 선물가게(priority queue).cpp
+/Users/shininryu/Desktop/✨algorithm/BOJ/Bruteforce/14501 퇴사.cpp
 iostream
 -
-queue
--
 vector
+-
+algorithm
 -
 

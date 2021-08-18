@@ -80,7 +80,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/shininryu/Desktop/✨algorithm/BOJ/Queue Stack/17225 세훈이의 선물가게(priority queue).cpp">
+		<Unit filename="/Users/shininryu/Desktop/✨algorithm/BOJ/Bruteforce/14501 퇴사.cpp">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/Users/shininryu/Desktop/✨algorithm/BOJ/Bruteforce/2615 오목.cpp">
 			<Option target="BOJ"/>
 		</Unit>
 		<Unit filename="/Users/shininryu/Desktop/✨algorithm/BOJ/CMakeLists.txt">
