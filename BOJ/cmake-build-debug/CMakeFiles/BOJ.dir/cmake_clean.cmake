@@ -1,7 +1,6 @@
 file(REMOVE_RECURSE
   "BOJ"
   "BOJ.pdb"
-  "CMakeFiles/BOJ.dir/Bruteforce/14501_퇴사.cpp.o"
   "CMakeFiles/BOJ.dir/Bruteforce/2615_오목.cpp.o"
 )
 

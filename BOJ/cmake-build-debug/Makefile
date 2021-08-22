@@ -143,33 +143,6 @@ BOJ/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/build
 .PHONY : BOJ/fast
 
-Bruteforce/14501_퇴사.o: Bruteforce/14501_퇴사.cpp.o
-
-.PHONY : Bruteforce/14501_퇴사.o
-
-# target to build an object file
-Bruteforce/14501_퇴사.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Bruteforce/14501_퇴사.cpp.o
-.PHONY : Bruteforce/14501_퇴사.cpp.o
-
-Bruteforce/14501_퇴사.i: Bruteforce/14501_퇴사.cpp.i
-
-.PHONY : Bruteforce/14501_퇴사.i
-
-# target to preprocess a source file
-Bruteforce/14501_퇴사.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Bruteforce/14501_퇴사.cpp.i
-.PHONY : Bruteforce/14501_퇴사.cpp.i
-
-Bruteforce/14501_퇴사.s: Bruteforce/14501_퇴사.cpp.s
-
-.PHONY : Bruteforce/14501_퇴사.s
-
-# target to generate assembly for a file
-Bruteforce/14501_퇴사.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Bruteforce/14501_퇴사.cpp.s
-.PHONY : Bruteforce/14501_퇴사.cpp.s
-
 Bruteforce/2615_오목.o: Bruteforce/2615_오목.cpp.o
 
 .PHONY : Bruteforce/2615_오목.o
@@ -206,9 +179,6 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... BOJ"
-	@echo "... Bruteforce/14501_퇴사.o"
-	@echo "... Bruteforce/14501_퇴사.i"
-	@echo "... Bruteforce/14501_퇴사.s"
 	@echo "... Bruteforce/2615_오목.o"
 	@echo "... Bruteforce/2615_오목.i"
 	@echo "... Bruteforce/2615_오목.s"

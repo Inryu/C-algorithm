@@ -80,9 +80,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/shininryu/Desktop/✨algorithm/BOJ/Bruteforce/14501 퇴사.cpp">
-			<Option target="BOJ"/>
-		</Unit>
 		<Unit filename="/Users/shininryu/Desktop/✨algorithm/BOJ/Bruteforce/2615 오목.cpp">
 			<Option target="BOJ"/>
 		</Unit>
