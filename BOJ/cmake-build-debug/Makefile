@@ -143,32 +143,32 @@ BOJ/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/build
 .PHONY : BOJ/fast
 
-Bruteforce/2615_오목.o: Bruteforce/2615_오목.cpp.o
+Bruteforce/18111_마인크래프트2.o: Bruteforce/18111_마인크래프트2.cpp.o
 
-.PHONY : Bruteforce/2615_오목.o
+.PHONY : Bruteforce/18111_마인크래프트2.o
 
 # target to build an object file
-Bruteforce/2615_오목.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Bruteforce/2615_오목.cpp.o
-.PHONY : Bruteforce/2615_오목.cpp.o
+Bruteforce/18111_마인크래프트2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Bruteforce/18111_마인크래프트2.cpp.o
+.PHONY : Bruteforce/18111_마인크래프트2.cpp.o
 
-Bruteforce/2615_오목.i: Bruteforce/2615_오목.cpp.i
+Bruteforce/18111_마인크래프트2.i: Bruteforce/18111_마인크래프트2.cpp.i
 
-.PHONY : Bruteforce/2615_오목.i
+.PHONY : Bruteforce/18111_마인크래프트2.i
 
 # target to preprocess a source file
-Bruteforce/2615_오목.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Bruteforce/2615_오목.cpp.i
-.PHONY : Bruteforce/2615_오목.cpp.i
+Bruteforce/18111_마인크래프트2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Bruteforce/18111_마인크래프트2.cpp.i
+.PHONY : Bruteforce/18111_마인크래프트2.cpp.i
 
-Bruteforce/2615_오목.s: Bruteforce/2615_오목.cpp.s
+Bruteforce/18111_마인크래프트2.s: Bruteforce/18111_마인크래프트2.cpp.s
 
-.PHONY : Bruteforce/2615_오목.s
+.PHONY : Bruteforce/18111_마인크래프트2.s
 
 # target to generate assembly for a file
-Bruteforce/2615_오목.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Bruteforce/2615_오목.cpp.s
-.PHONY : Bruteforce/2615_오목.cpp.s
+Bruteforce/18111_마인크래프트2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Bruteforce/18111_마인크래프트2.cpp.s
+.PHONY : Bruteforce/18111_마인크래프트2.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... BOJ"
-	@echo "... Bruteforce/2615_오목.o"
-	@echo "... Bruteforce/2615_오목.i"
-	@echo "... Bruteforce/2615_오목.s"
+	@echo "... Bruteforce/18111_마인크래프트2.o"
+	@echo "... Bruteforce/18111_마인크래프트2.i"
+	@echo "... Bruteforce/18111_마인크래프트2.s"
 .PHONY : help
 
 
