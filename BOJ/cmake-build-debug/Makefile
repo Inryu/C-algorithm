@@ -143,32 +143,32 @@ BOJ/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/build
 .PHONY : BOJ/fast
 
-Bruteforce/18111_마인크래프트2.o: Bruteforce/18111_마인크래프트2.cpp.o
+Bruteforce/N과M(3).o: Bruteforce/N과M(3).cpp.o
 
-.PHONY : Bruteforce/18111_마인크래프트2.o
+.PHONY : Bruteforce/N과M(3).o
 
 # target to build an object file
-Bruteforce/18111_마인크래프트2.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Bruteforce/18111_마인크래프트2.cpp.o
-.PHONY : Bruteforce/18111_마인크래프트2.cpp.o
+Bruteforce/N과M(3).cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make "CMakeFiles/BOJ.dir/Bruteforce/N과M(3).cpp.o"
+.PHONY : Bruteforce/N과M(3).cpp.o
 
-Bruteforce/18111_마인크래프트2.i: Bruteforce/18111_마인크래프트2.cpp.i
+Bruteforce/N과M(3).i: Bruteforce/N과M(3).cpp.i
 
-.PHONY : Bruteforce/18111_마인크래프트2.i
+.PHONY : Bruteforce/N과M(3).i
 
 # target to preprocess a source file
-Bruteforce/18111_마인크래프트2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Bruteforce/18111_마인크래프트2.cpp.i
-.PHONY : Bruteforce/18111_마인크래프트2.cpp.i
+Bruteforce/N과M(3).cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make "CMakeFiles/BOJ.dir/Bruteforce/N과M(3).cpp.i"
+.PHONY : Bruteforce/N과M(3).cpp.i
 
-Bruteforce/18111_마인크래프트2.s: Bruteforce/18111_마인크래프트2.cpp.s
+Bruteforce/N과M(3).s: Bruteforce/N과M(3).cpp.s
 
-.PHONY : Bruteforce/18111_마인크래프트2.s
+.PHONY : Bruteforce/N과M(3).s
 
 # target to generate assembly for a file
-Bruteforce/18111_마인크래프트2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Bruteforce/18111_마인크래프트2.cpp.s
-.PHONY : Bruteforce/18111_마인크래프트2.cpp.s
+Bruteforce/N과M(3).cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make "CMakeFiles/BOJ.dir/Bruteforce/N과M(3).cpp.s"
+.PHONY : Bruteforce/N과M(3).cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... BOJ"
-	@echo "... Bruteforce/18111_마인크래프트2.o"
-	@echo "... Bruteforce/18111_마인크래프트2.i"
-	@echo "... Bruteforce/18111_마인크래프트2.s"
+	@echo "... Bruteforce/N과M(3).o"
+	@echo "... Bruteforce/N과M(3).i"
+	@echo "... Bruteforce/N과M(3).s"
 .PHONY : help
 
 

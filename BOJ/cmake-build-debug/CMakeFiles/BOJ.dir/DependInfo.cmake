@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/shininryu/Desktop/✨algorithm/BOJ/Bruteforce/18111 마인크래프트2.cpp" "/Users/shininryu/Desktop/✨algorithm/BOJ/cmake-build-debug/CMakeFiles/BOJ.dir/Bruteforce/18111_마인크래프트2.cpp.o"
+  "/Users/shininryu/Desktop/✨algorithm/BOJ/Bruteforce/N과M(3).cpp" "/Users/shininryu/Desktop/✨algorithm/BOJ/cmake-build-debug/CMakeFiles/BOJ.dir/Bruteforce/N과M(3).cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
