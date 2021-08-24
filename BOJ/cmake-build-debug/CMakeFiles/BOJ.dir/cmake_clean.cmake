@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "BOJ"
   "BOJ.pdb"
-  "CMakeFiles/BOJ.dir/Bruteforce/N과M(3).cpp.o"
+  "CMakeFiles/BOJ.dir/Bruteforce/2580_스도쿠.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

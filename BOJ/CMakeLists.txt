@@ -3,4 +3,4 @@ project(BOJ)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(BOJ  "Bruteforce/15651 N과M(3).cpp")
+add_executable(BOJ "Bruteforce/2580 스도쿠.cpp")

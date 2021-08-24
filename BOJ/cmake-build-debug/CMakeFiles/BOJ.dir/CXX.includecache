@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/shininryu/Desktop/✨algorithm/BOJ/Bruteforce/N과M(3).cpp
+/Users/shininryu/Desktop/✨algorithm/BOJ/Bruteforce/2580 스도쿠.cpp
 iostream
+-
+vector
+-
+algorithm
 -
 

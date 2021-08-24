@@ -143,32 +143,32 @@ BOJ/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/build
 .PHONY : BOJ/fast
 
-Bruteforce/N과M(3).o: Bruteforce/N과M(3).cpp.o
+Bruteforce/2580_스도쿠.o: Bruteforce/2580_스도쿠.cpp.o
 
-.PHONY : Bruteforce/N과M(3).o
+.PHONY : Bruteforce/2580_스도쿠.o
 
 # target to build an object file
-Bruteforce/N과M(3).cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make "CMakeFiles/BOJ.dir/Bruteforce/N과M(3).cpp.o"
-.PHONY : Bruteforce/N과M(3).cpp.o
+Bruteforce/2580_스도쿠.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Bruteforce/2580_스도쿠.cpp.o
+.PHONY : Bruteforce/2580_스도쿠.cpp.o
 
-Bruteforce/N과M(3).i: Bruteforce/N과M(3).cpp.i
+Bruteforce/2580_스도쿠.i: Bruteforce/2580_스도쿠.cpp.i
 
-.PHONY : Bruteforce/N과M(3).i
+.PHONY : Bruteforce/2580_스도쿠.i
 
 # target to preprocess a source file
-Bruteforce/N과M(3).cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make "CMakeFiles/BOJ.dir/Bruteforce/N과M(3).cpp.i"
-.PHONY : Bruteforce/N과M(3).cpp.i
+Bruteforce/2580_스도쿠.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Bruteforce/2580_스도쿠.cpp.i
+.PHONY : Bruteforce/2580_스도쿠.cpp.i
 
-Bruteforce/N과M(3).s: Bruteforce/N과M(3).cpp.s
+Bruteforce/2580_스도쿠.s: Bruteforce/2580_스도쿠.cpp.s
 
-.PHONY : Bruteforce/N과M(3).s
+.PHONY : Bruteforce/2580_스도쿠.s
 
 # target to generate assembly for a file
-Bruteforce/N과M(3).cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make "CMakeFiles/BOJ.dir/Bruteforce/N과M(3).cpp.s"
-.PHONY : Bruteforce/N과M(3).cpp.s
+Bruteforce/2580_스도쿠.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Bruteforce/2580_스도쿠.cpp.s
+.PHONY : Bruteforce/2580_스도쿠.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... BOJ"
-	@echo "... Bruteforce/N과M(3).o"
-	@echo "... Bruteforce/N과M(3).i"
-	@echo "... Bruteforce/N과M(3).s"
+	@echo "... Bruteforce/2580_스도쿠.o"
+	@echo "... Bruteforce/2580_스도쿠.i"
+	@echo "... Bruteforce/2580_스도쿠.s"
 .PHONY : help
 
 
