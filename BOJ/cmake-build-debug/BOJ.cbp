@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/shininryu/Desktop/✨algorithm/BOJ/Bruteforce/2580 스도쿠.cpp">
+		<Unit filename="/Users/shininryu/Desktop/✨algorithm/BOJ/Union Find/1717 집합의 표현.cpp">
 			<Option target="BOJ"/>
 		</Unit>
 		<Unit filename="/Users/shininryu/Desktop/✨algorithm/BOJ/CMakeLists.txt">

@@ -3,4 +3,4 @@ project(BOJ)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(BOJ "Bruteforce/2580 스도쿠.cpp")
+add_executable(BOJ "Union Find/1717 집합의 표현.cpp")

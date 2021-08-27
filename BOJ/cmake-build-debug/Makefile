@@ -143,32 +143,32 @@ BOJ/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/build
 .PHONY : BOJ/fast
 
-Bruteforce/2580_스도쿠.o: Bruteforce/2580_스도쿠.cpp.o
+Union_Find/1717_집합의_표현.o: Union_Find/1717_집합의_표현.cpp.o
 
-.PHONY : Bruteforce/2580_스도쿠.o
+.PHONY : Union_Find/1717_집합의_표현.o
 
 # target to build an object file
-Bruteforce/2580_스도쿠.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Bruteforce/2580_스도쿠.cpp.o
-.PHONY : Bruteforce/2580_스도쿠.cpp.o
+Union_Find/1717_집합의_표현.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Union_Find/1717_집합의_표현.cpp.o
+.PHONY : Union_Find/1717_집합의_표현.cpp.o
 
-Bruteforce/2580_스도쿠.i: Bruteforce/2580_스도쿠.cpp.i
+Union_Find/1717_집합의_표현.i: Union_Find/1717_집합의_표현.cpp.i
 
-.PHONY : Bruteforce/2580_스도쿠.i
+.PHONY : Union_Find/1717_집합의_표현.i
 
 # target to preprocess a source file
-Bruteforce/2580_스도쿠.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Bruteforce/2580_스도쿠.cpp.i
-.PHONY : Bruteforce/2580_스도쿠.cpp.i
+Union_Find/1717_집합의_표현.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Union_Find/1717_집합의_표현.cpp.i
+.PHONY : Union_Find/1717_집합의_표현.cpp.i
 
-Bruteforce/2580_스도쿠.s: Bruteforce/2580_스도쿠.cpp.s
+Union_Find/1717_집합의_표현.s: Union_Find/1717_집합의_표현.cpp.s
 
-.PHONY : Bruteforce/2580_스도쿠.s
+.PHONY : Union_Find/1717_집합의_표현.s
 
 # target to generate assembly for a file
-Bruteforce/2580_스도쿠.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Bruteforce/2580_스도쿠.cpp.s
-.PHONY : Bruteforce/2580_스도쿠.cpp.s
+Union_Find/1717_집합의_표현.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Union_Find/1717_집합의_표현.cpp.s
+.PHONY : Union_Find/1717_집합의_표현.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... BOJ"
-	@echo "... Bruteforce/2580_스도쿠.o"
-	@echo "... Bruteforce/2580_스도쿠.i"
-	@echo "... Bruteforce/2580_스도쿠.s"
+	@echo "... Union_Find/1717_집합의_표현.o"
+	@echo "... Union_Find/1717_집합의_표현.i"
+	@echo "... Union_Find/1717_집합의_표현.s"
 .PHONY : help
 
 

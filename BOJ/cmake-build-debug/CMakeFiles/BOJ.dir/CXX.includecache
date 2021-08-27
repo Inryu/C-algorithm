@@ -6,11 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/shininryu/Desktop/✨algorithm/BOJ/Bruteforce/2580 스도쿠.cpp
+/Users/shininryu/Desktop/✨algorithm/BOJ/Union Find/1717 집합의 표현.cpp
 iostream
--
-vector
--
-algorithm
 -
 
