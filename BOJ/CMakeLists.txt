@@ -3,4 +3,7 @@ project(BOJ)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(BOJ "Union Find/1717 집합의 표현.cpp")
+add_executable(BOJ
+        #"Sorting/10825 국영수.cpp"
+        Heap/2075.cpp
+        )

@@ -143,32 +143,32 @@ BOJ/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/build
 .PHONY : BOJ/fast
 
-Union_Find/1717_집합의_표현.o: Union_Find/1717_집합의_표현.cpp.o
+Heap/2075.o: Heap/2075.cpp.o
 
-.PHONY : Union_Find/1717_집합의_표현.o
+.PHONY : Heap/2075.o
 
 # target to build an object file
-Union_Find/1717_집합의_표현.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Union_Find/1717_집합의_표현.cpp.o
-.PHONY : Union_Find/1717_집합의_표현.cpp.o
+Heap/2075.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Heap/2075.cpp.o
+.PHONY : Heap/2075.cpp.o
 
-Union_Find/1717_집합의_표현.i: Union_Find/1717_집합의_표현.cpp.i
+Heap/2075.i: Heap/2075.cpp.i
 
-.PHONY : Union_Find/1717_집합의_표현.i
+.PHONY : Heap/2075.i
 
 # target to preprocess a source file
-Union_Find/1717_집합의_표현.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Union_Find/1717_집합의_표현.cpp.i
-.PHONY : Union_Find/1717_집합의_표현.cpp.i
+Heap/2075.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Heap/2075.cpp.i
+.PHONY : Heap/2075.cpp.i
 
-Union_Find/1717_집합의_표현.s: Union_Find/1717_집합의_표현.cpp.s
+Heap/2075.s: Heap/2075.cpp.s
 
-.PHONY : Union_Find/1717_집합의_표현.s
+.PHONY : Heap/2075.s
 
 # target to generate assembly for a file
-Union_Find/1717_집합의_표현.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Union_Find/1717_집합의_표현.cpp.s
-.PHONY : Union_Find/1717_집합의_표현.cpp.s
+Heap/2075.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BOJ.dir/build.make CMakeFiles/BOJ.dir/Heap/2075.cpp.s
+.PHONY : Heap/2075.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... BOJ"
-	@echo "... Union_Find/1717_집합의_표현.o"
-	@echo "... Union_Find/1717_집합의_표현.i"
-	@echo "... Union_Find/1717_집합의_표현.s"
+	@echo "... Heap/2075.o"
+	@echo "... Heap/2075.i"
+	@echo "... Heap/2075.s"
 .PHONY : help
 
 
